@@ -1,1 +1,33 @@
-# vast-challenge
+# VAST Challenge 2018 Mini Challenge 2
+
+## Introduction
+VAST challenge is an annual international visual analytics competition. It provides a dataset and a few analysis questions.  
+Each entry needs to present:  
+1. The visual analytics tool they developed and
+2. How they found the answers using the tool
+
+
+## Background
+(All the people, places, groups, technologies, contained therein are fictitious.)  
+Mistford is a mid-size city to the southwest of the Boonsong Lekagul Wildlife Preserve. The city has a small industrial area with four light-manufacturing endeavors. Mistford and the wildlife preserve are struggling with the possible endangerment of the Rose-Crested Blue Pipit, a locally loved bird. The birdʼs nesting pairs seem to have decreased alarmingly.  
+
+An investigation last year (VAST challenge 2017) indicated that the Kasios Office Furniture, a Mistford manufacturing firm, may be linked to this
+Though there is no firm evidence. Now the company insists that they have done nothing wrong. It is time for more visual analytics investigation.
+
+## Dataset
+Several years of water sensor readings from rivers and streams in the preserve. These samples were taken from different locations scattered throughout the area. It contains measurements of several chemicals of possible interest.  
+The task is to investigate the sensor readings to find possible link to the bird population deduction.
+
+## Analysis questions:
+1. Describe trends and anomalies with respect to chemical contamination.  
+  i. Trends: changes over time and/or sensor site.  
+  ii. Anomalies: sudden change over time or one site significantly different from others.  
+2. Describe any data quality and uncertain issues, such as:  
+  i. missing data,  
+  ii. change in collection frequency, and. 
+  iii. unrealistic values (e.g. water temperature higher than 100 degrees).  
+
+
+
+## Solution
+The visualisation tool used to analyse the dataset is [Vega-Altair](https://altair-viz.github.io/)
