@@ -30,7 +30,7 @@ The task is to investigate the sensor readings to find possible link to the bird
 
 
 ## Solution
-The visualisation tool used to analyse the dataset is [Vega-Altair](https://altair-viz.github.io/)
-Solution webpag - https://uniqcoda.github.io/vast-challenge-2/
-See pdf file of solution at https://github.com/Uniqcoda/vast-challenge-2/blob/main/submission.pdf 
-See Jupyter notebook solution at https://github.com/Uniqcoda/vast-challenge-2/blob/main/viz-notebook.ipynb 
+The visualisation tool used to analyse the dataset is [Vega-Altair](https://altair-viz.github.io/)  
+Solution webpag - https://uniqcoda.github.io/vast-challenge-2/. 
+See pdf file of solution at https://github.com/Uniqcoda/vast-challenge-2/blob/main/submission.pdf   
+See Jupyter notebook solution at https://github.com/Uniqcoda/vast-challenge-2/blob/main/viz-notebook.ipynb   
